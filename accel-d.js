@@ -8,7 +8,7 @@ const tabs = require("sdk/tabs/utils");
 const prefs = require("sdk/preferences/service");
 
 require("sdk/hotkeys").Hotkey({
-	combo: "accel-k",
+	combo: "accel-d",
 	onPress: function () {
 		let tab = tabs.getActiveTab(windows.getMostRecentBrowserWindow());
 		let tabbrowser = tabs.getTabBrowserForTab(tab);
