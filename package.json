@@ -1,10 +1,10 @@
 {
 	"name": "duplicate-tab-hotkey",
 	"title": "Duplicate Tab Hotkey fork",
-	"id": "duplicate-tab-hotkey@tynn.addons.mozilla.org",
+	"id": "duplicate-tab-hotkey@nawracay.addons.mozilla.org",
 	"description": "A Duplicate Tab Hotkey bound to Accel+D.",
-	"author": "capay <capey@gmx.de>",
-	"homepage": "https://github.com/capay/duplicate-tab-hotkey",
+	"author": "Patrick Nawracay <patrick@nawracay.de>",
+	"homepage": "https://github.com/nawracay/duplicate-tab-hotkey",
 	"license": "MPL 2.0",
 	"version": "0.1.1",
 	"permissions": { "private-browsing": true },
@@ -12,7 +12,7 @@
 	"lib": "",
 	"localized": {
 		"de": {
-			"title": "Tab duplizieren Tastenkombination",
+			"title": "Tastenkombination zum duplizieren von einem Reiter",
 			"description": "Fügt die Tastenkombination Accel+D zum duplizieren des offenen Tabs hinzu."
 		},
 		"en": {}
