@@ -4,7 +4,7 @@
 	"id": "duplicate-tab-hotkey@nawracay.addons.mozilla.org",
 	"description": "A Duplicate Tab Hotkey bound to Accel+D.",
 	"author": "Patrick Nawracay <patrick@nawracay.de>",
-	"homepage": "https://github.com/nawracay/duplicate-tab-hotkey",
+	"homepage": "https://github.com/p-na/duplicate-tab-hotkey",
 	"license": "MPL 2.0",
 	"version": "0.1.1",
 	"permissions": { "private-browsing": true },
